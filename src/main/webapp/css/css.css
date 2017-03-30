@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+/**{
+    margin: 0px;
+    clear:both;
+}*/
+div{
+    text-align: left;
+}
+.btn_div{
+    margin-right: 0px;
+    text-align: right;
+}
+ #btn_add{
+    width: 150px;
+    height: 35px;
+     float: right;
+     margin-bottom: 10px;
+    border-radius: 8px;
+    text-align: center;
+    transition:width 2s ;
+    font-family: "微软雅黑";
+    background-color: #ED145B;
+    color: #D3D3D3;
+}
